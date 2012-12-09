@@ -1,4 +1,8 @@
 javacpu
 =======
 
-What every programmer should know about cpu and memory
+What every java programmer should know about cpu and memory
+
+== False Sharing ==
+
+
